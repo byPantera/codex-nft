@@ -65,12 +65,11 @@ We're seeking talented artists from our community to help bring this vision to l
 
 ## Project Timeline
 
-- Artist Submission Period: 2024/01/11 - 2024/01/17
-- Artist Selection: 2024/01/20
-- Concept Development: 2024/01/20 - 2024/01/27
-- Artwork Creation: 2024/01/20 - 2024/01/24
-- Community Review: 2024/02/01 - 2024/02/07
-- Final Collection Launch: 2024/02/22
+- Artist Submission Period: 2024/01/11 - 2024/01/24
+- Artist Selection: 2024/01/27
+- Concept Development: 2024/01/27 - 2024/01/31
+- Artwork Creation: 2024/01/27 - 2024/01/31
+- NFT Collection Launch: 2024/02/01
 
 ## Community Input
 
